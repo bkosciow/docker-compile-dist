@@ -1,0 +1,5 @@
+bin/docker-compile
+docker_compile.egg-info/PKG-INFO
+docker_compile.egg-info/SOURCES.txt
+docker_compile.egg-info/dependency_links.txt
+docker_compile.egg-info/top_level.txt
