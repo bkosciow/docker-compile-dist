@@ -9,7 +9,7 @@ setup(
     scripts=['bin/docker-compile'],
 	author="Bartosz Kosciow",
 	classifiers=[
-        'Development Status :: 4 - Beta',
+        'Development Status :: 3 - Alpha',
         'Environment :: Console',
         'Intended Audience :: Developers',
         'Natural Language :: English',
